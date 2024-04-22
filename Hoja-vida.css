@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 0px solid #0a0a0a;
+    border-radius: 10px;
+    border-color: #0f0101;
+    border-width: 1px;
+}
+img{
+    width: 120px; height: 200px;
+    margin-right: 50px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+}
+th {
+    background-color: #f2f2f2;
+}
